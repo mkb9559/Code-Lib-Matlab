@@ -3,4 +3,4 @@ This code library on matlab.
 
 # Index
 
- - Solving plane equation at any three points.
+ - **planefuc:** Solving plane equation at any three points.
