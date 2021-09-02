@@ -5,3 +5,4 @@ A Matlab function which can solve plane equation from any three points.
  ```
 planefuc([1 2 3], [1 5 6], [1 0 2])
  ```
+ **_ver 2021/08/10_**
