@@ -9,7 +9,7 @@ You may find it in "PotentialField.jpg" and "Gradient.jpg".
 # Quick Start
 - Configure init parameters.
 - Set obstacle information.
-- 
+
  # Acknowledge
  - The author developed and tested this work on Matlab 2019a.
 
