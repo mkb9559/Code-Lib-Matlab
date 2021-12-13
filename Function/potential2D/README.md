@@ -1,5 +1,10 @@
 # potential2D
 Establish 2D potentical field by Gaussian function.
+![image](https://github.com/mkb9559/Code-Lib-Matlab/blob/main/Function/potential2D/PotentialField.jpg)
+![image](https://github.com/mkb9559/Code-Lib-Matlab/blob/main/Function/potential2D/Gradient.jpg)
+
+# Preview
+You may find it in "PotentialField.jpg" and "Gradient.jpg".
 
 # Quick Start
 - Configure init parameters.
