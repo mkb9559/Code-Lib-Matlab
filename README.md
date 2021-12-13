@@ -12,4 +12,4 @@ Personal code library on matlab.
 ## Function
 
  - **planefuc:** Solving plane equation from any three points.
-
+ - **potential2D:** Establish 2D potentical field by Gaussian function.
