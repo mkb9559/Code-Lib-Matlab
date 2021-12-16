@@ -7,9 +7,10 @@ Establish 2D potentical field by Gaussian function.
 You may find it in "PotentialField.jpg" and "Gradient.jpg".
 
 # Quick Start
+- Potential.m is the main.
 - Configure init parameters.
 - Set obstacle information.
-
+- 
  # Acknowledge
  - The author developed and tested this work on Matlab 2019a.
 
